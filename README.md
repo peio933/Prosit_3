@@ -11,9 +11,9 @@ Voici le diagramme de cas d'utilisation qui représente le cas particulier du sc
 
 Avant de créer le diagramme de classe, revenons sur sa structure fondamentale. Le diagramme de classe est constitué d'une ou plusieurs classes, chacune étant symbolisée par un rectangle divisé en trois sections distinctes :
 
-La première section contient le nom de la classe.
-La deuxième section englobe les attributs associés à la classe.
-La dernière section regroupe les méthodes de la classe.
+- La première section contient le nom de la classe.<br>
+- La deuxième section englobe les attributs associés à la classe.<br>
+- La dernière section regroupe les méthodes de la classe.<br>
 
 Ci-dessous est exposé le diagramme de classe illustrant le cas spécifique du scénario professionnel (prosit) :
 
