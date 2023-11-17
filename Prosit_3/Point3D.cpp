@@ -1,6 +1,6 @@
 #include "Point3D.h"
 
-void Point2D::Point()
+void Point3D::Point()
 {
 
 }

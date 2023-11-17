@@ -6,29 +6,29 @@ void Point2D::Point()
 	this -> y = 0;
 }
 
-void Point2D::Point(float x1, float y1)
+void Point2D::Point(float v1, float v2)
 {
-	this -> x = x1;
-	this -> y = y1;
+	this -> x = v1;
+	this -> y = v2;
 
 }
 
 
-void Point2D::setX(float x1)
+void Point2D::setX(float v1)
 {
 	cout << "Donner la valeur de x :";
-	cin >> x1;
+	cin >> v1;
 
-	this -> x = x1;
+	this -> x = v1;
 
 }
 
-void Point2D::setY(float y1)
+void Point2D::setY(float v2)
 {
 	cout << "Donner la valeur de y :";
-	cin >> y1;
+	cin >> v2;
 
-	this -> y = y1;
+	this -> y = v2;
 }
 
 float Point2D::getX()
