@@ -1,39 +1,27 @@
 #include "Point3D.h"
 
-void Point3D::Point()
+void Point2D::Point()
 {
+	this -> z = 0;
 
 }
 
-void Point3D::Point(float, float, float)
+void Point3D::Point(float v1, float v2, float v3)
 {
+	this -> z = v3;
 }
 
-void Point3D::setX(float)
+void Point3D::setZ(float v3)
 {
-}
+	cout << "Donner la valeur de z :";
+	cin >> v3;
 
-void Point3D::setY(float)
-{
-}
-
-void Point3D::setZ(float)
-{
-}
-
-float Point3D::getX()
-{
-	return 0.0f;
-}
-
-float Point3D::getY()
-{
-	return 0.0f;
+	this->z = v3;
 }
 
 float Point3D::getZ()
 {
-	return 0.0f;
+	return  this -> z;
 }
 
 
