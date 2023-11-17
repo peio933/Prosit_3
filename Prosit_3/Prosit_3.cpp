@@ -1,5 +1,7 @@
 #include "Point2D.h"
 #include "Parcours2D.h"
+#include "Point3D.h"
+#include "Parcours3D.h"
 
 int main()
 {
@@ -41,41 +43,49 @@ int main()
 		A.Parcours(p1, p2);
 
 
-		
+
 
 	}
 	else if (choix == 2)
 	{
 		Point2D p1;
 		Point2D p2;
+		Point3D p3;
+		Point3D p4;
 		float x = 0;
 		float y = 0;
+		float z = 0;
 
 
 		p1.Point();
 		p2.Point();
 
+
 		p1.setX(x);
 		p1.setY(y);
+		p3.setZ(z);
 
 		p2.setX(x);
 		p2.setY(y);
-
+		p4.setZ(z);
+		
 		p1.getX();
 		p1.getY();
+		p3.getZ();
 
 		p2.getX();
 		p2.getY();
+		p4.getZ();
 
-		Parcours2D A;
-		A.Parcours(p1, p2);
+		Parcours3D A;
+		A.Parcours(p1, p2, p3, p4);
 
 		
 	}
-	else
-	{
-		cout << "Choix invalide" << endl;
-	}
+	//else
+	//{
+		//cout << "Choix invalide" << endl;
+	//}
 
 	return 0;
 }

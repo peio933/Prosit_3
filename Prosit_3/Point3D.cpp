@@ -6,7 +6,7 @@ void Point2D::Point()
 
 }
 
-void Point3D::Point(float v1, float v2, float v3)
+void Point3D::Point(float v3)
 {
 	this -> z = v3;
 }
