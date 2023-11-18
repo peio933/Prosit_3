@@ -10,7 +10,7 @@ class Point2D
 	float x;
 	float y;
 	float z;
-	float A;
+	double A;
 
 public:
 	void Point();

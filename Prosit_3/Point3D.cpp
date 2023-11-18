@@ -1,10 +1,5 @@
 #include "Point3D.h"
 
-void Point2D::Point()
-{
-	this -> z = 0;
-
-}
 
 void Point3D::Point(float v3)
 {
