@@ -17,3 +17,5 @@ void Parcours2D::Parcours(Point2D p1, Point2D p2)
     // Afficher la distance entre les deux points calculée précédemment
     cout << "La distance entre les deux points est : " << A << endl;
 }
+
+
