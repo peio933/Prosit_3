@@ -1,7 +1,6 @@
 # 1. Diagramme UML
-##  1.1 Diagramme de cas d'utilisation
-
 Avant de rédiger le code, il est essentiel de comprendre les exigences des clients en réalisant plusieurs diagrammes afin de saisir pleinement la portée du projet :
+##  1.1 Diagramme de cas d'utilisation
 
 Voici le diagramme de cas d'utilisation qui représente le cas particulier du scénario professionnel (prosit) :
 
@@ -20,3 +19,7 @@ Ci-dessous est exposé le diagramme de classe illustrant le cas spécifique du s
 ![Classe UML](https://github.com/peio933/Prosit_3/assets/116553253/4a9f81f4-d97f-4ca7-b8cf-b7c9ee55f1ef)
 
 ## 1.3 Diagramme de séquence
+
+Vous pouvez voir mon diagramme de séquence, je n'arrive pas trop a faire un diagramme de séquence pour le moment.
+
+![Diagramme de séquence](https://github.com/peio933/Prosit_3/assets/116553253/9f170285-d8ce-49c8-ac60-2383d0157cb7)
