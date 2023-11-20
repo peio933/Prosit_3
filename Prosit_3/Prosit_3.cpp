@@ -1,3 +1,4 @@
+// test distance : https://www.translatorscafe.com/unit-converter/fr-FR/calculator/two-points-distance/
 // Inclure les fichiers d'en-tête nécessaires qui définissent les classes utilisées dans ce programme
 #include "Parcours2D.h"
 #include "Parcours3D.h"
@@ -15,7 +16,7 @@ int main()
     cout << "Quel est le type de point ?" << endl;
     cout << "1. Point 2D" << endl;
     cout << "2. Point 3D" << endl;
-	cout << "Ou souhaitez - vous convertir un point 3D en point 2D ? " << endl;
+	cout << "Ou souhaitez-vous convertir un point 3D en point 2D ? " << endl;
 
     // Lire le choix de l'utilisateur
     cin >> choix;
