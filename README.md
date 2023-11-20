@@ -17,4 +17,6 @@ Avant de créer le diagramme de classe, revenons sur sa structure fondamentale. 
 
 Ci-dessous est exposé le diagramme de classe illustrant le cas spécifique du scénario professionnel (prosit) :
 
+![Classe UML](https://github.com/peio933/Prosit_3/assets/116553253/4a9f81f4-d97f-4ca7-b8cf-b7c9ee55f1ef)
+
 ## 1.3 Diagramme de séquence
